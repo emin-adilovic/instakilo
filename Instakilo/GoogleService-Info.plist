@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDfT9Sl2-oTo1Ys2sOD_0Q85cuAicMobEg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148367116686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hackingwithswift.Instakilo</string>
+	<key>PROJECT_ID</key>
+	<string>instakiloswiftui</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instakiloswiftui.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148367116686:ios:2439f1bae63f27a95f7cdf</string>
+</dict>
+</plist>
